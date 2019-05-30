@@ -14,6 +14,9 @@
 <body>
 <header>
 <h1 class="font-weight-normal">メモ</h1>
+<form action="input.html" method="get">
+    <button type="submit">新規作成</button>
+</form>
 </header>
 
 <main>
